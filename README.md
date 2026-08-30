@@ -19,4 +19,5 @@ This visualization uses four charts to show how many subsets of Arkansas' homele
 
 ![Homelessness by Ethnicity and Region in 2022](https://github.com/Vanadium-012/American-Income-Inequality-2019-2023/blob/Arkansas/Arkansas%20Food%20Insecurity%20Visualizations/Homelessness%20by%20Ethnicity%20%26%20Region.png)
 
+#### SNAP Recipients by County, 2018-2022
 ![SNAP Recipients by County, 2018-2022](https://github.com/Vanadium-012/American-Income-Inequality-2019-2023/blob/Arkansas/Arkansas%20Food%20Insecurity%20Visualizations/SNAP%20Recipients%20by%20County.png)
